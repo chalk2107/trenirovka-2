@@ -28,4 +28,4 @@ while True:
             
     except ValueError:
         print("Ошибка. Нужно вводить числа")
-        # kzkzkzkzkzkkzkzkzkzkzkkzkz
+        # zov
