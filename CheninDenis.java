@@ -93,6 +93,8 @@ public class ColoredPip {
         setSymbol(symbol);
         setSecondIndex(index + 5);
     }
+
+    //пиу
 }
 
 public class Cost {
