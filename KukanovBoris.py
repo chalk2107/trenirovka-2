@@ -21,7 +21,7 @@ match operation:
             print("НЕЛЬЗЯ ДЕЛИТЬ НА НОЛЬ!!!!!!")
             result = "Ошибка!"
         else:
-            result = firstNumber / secondNumber
+            result = firstNumber / secondNumber # ето результат
     case _:
         print("Операция не выбрана")
         result = "Ошибка!"
